@@ -1,2 +1,2 @@
-# Mini---Project
+# Mini-Project
 Value Added Course
