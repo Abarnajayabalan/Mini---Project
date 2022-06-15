@@ -52,6 +52,31 @@ the part of a person's arm extending from the elbow to the wrist or the fingerti
 
 # WRIST :
 the joint connecting the hand with the forearm.
+
+# Prediction Of Body Fat With Performance Metrics :
+* Importing Mean Squared Error
+* Applying Mean Squared Error
+* Mean Absolute Error
+* R-Squared Score
+
+# Performing Descriptive Analysis Using Statistics :
+* Measure Of Central Tendancy
+   * Mean
+   * Median
+   * Mode
+* Measure Of Spread
+   * Range (Max-Min)
+   * Quantile (data_quant)
+* Standard Deviation (.std)
+* Skewness (.skew())
+*Kurtosis (.Kurt())
+
+* Charts Using Body Fat Prediction
+   * Scatter plot
+   * Line plot
+   * Pie chart
+   * Bar plot
+
 Value Added Course
 
 
