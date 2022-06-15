@@ -53,13 +53,13 @@ the part of a person's arm extending from the elbow to the wrist or the fingerti
 # WRIST :
 the joint connecting the hand with the forearm.
 
-# Prediction Of Body Fat With Performance Metrics :
+# Prediction Of Body Fat With Performance Metrics:
 * Importing Mean Squared Error
 * Applying Mean Squared Error
 * Mean Absolute Error
 * R-Squared Score
 
-# Performing Descriptive Analysis Using Statistics :
+# Performing Descriptive Analysis Using Statistics:
 * Measure Of Central Tendancy
    * Mean
    * Median
@@ -78,5 +78,3 @@ the joint connecting the hand with the forearm.
    * Bar plot
 
 Value Added Course
-
-
